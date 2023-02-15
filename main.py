@@ -11,5 +11,5 @@ print(fruits[3])
 
 print(len(fruits))
 
-fruits.extend([1, 5])
+fruits.extend((1, 5))
 print(fruits)
